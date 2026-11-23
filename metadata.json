@@ -1,0 +1,8 @@
+{
+  "name": "Bamaina Bright Academy",
+  "description": "Official school website, online admission platform, student and parent portal, and school management system for Bamaina Bright Academy, Birnin Kudu LGA, Jigawa State, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
